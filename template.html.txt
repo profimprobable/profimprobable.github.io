@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<-- EDIT AFTER THIS LINE --> 
+<h1>Here is a header</h1>
+<p>This is where you write a paragraph...</p>
+<h2>Here is a subheader</h2>
+<p>Here is a paragraph about this subtopic</p>
+<br>
+<h2>Here is a subheader for some lists</h2>
+<li>Item number 1</li>
+<li>Item number 2</li>
+<li>Item number 3</li>
+<br>
+<-- EDIT ABOVE THIS LINE -->
+</body>
+</html>
